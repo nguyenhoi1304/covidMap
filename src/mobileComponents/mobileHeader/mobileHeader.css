@@ -1,0 +1,13 @@
+@media screen and (max-width: 498px) {
+  .textHeader .MuiTypography-root {
+    font-size: 12px;
+    line-height: 20px;
+  }
+}
+
+@media screen and (max-width: 382px) {
+    .textHeader .MuiTypography-root {
+      font-size: 8px;
+      line-height: 20px;
+    }
+  }

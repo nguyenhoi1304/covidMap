@@ -1,0 +1,22 @@
+.listPatientPagination {
+  border-radius: 0px 0px 4px 4px;
+}
+.listPatientPagination .MuiInputBase-root {
+  display: none;
+}
+.listPatientPagination .MuiTablePagination-root .MuiTablePagination-toolbar {
+  min-height: auto;
+}
+.listPatientPagination .MuiTablePagination-spacer {
+  flex: 0;
+}
+.listPatientPagination .MuiTablePagination-actions {
+  margin-left: auto;
+  color: #0000008a;
+}
+.listPatientPagination .MuiToolbar-root p {
+  display: none;
+}
+.listPatientPagination .MuiTablePagination-actions button {
+  padding: 0;
+}

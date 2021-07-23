@@ -1,0 +1,23 @@
+.listBlockadeAreas {
+    border-radius: 0px 0px 4px 4px;
+  }
+  .listBlockadeAreas .MuiInputBase-root {
+    display: none;
+  }
+  .listBlockadeAreas .MuiTablePagination-root .MuiTablePagination-toolbar {
+    min-height: auto;
+  }
+  .listBlockadeAreas .MuiTablePagination-spacer {
+    flex: 0;
+  }
+  .listBlockadeAreas .MuiTablePagination-actions {
+    margin-left: auto;
+    color: #0000008a;
+  }
+  .listBlockadeAreas .MuiToolbar-root p {
+    display: none;
+  }
+  .listBlockadeAreas .MuiTablePagination-actions button {
+    padding: 0;
+  }
+  

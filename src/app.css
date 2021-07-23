@@ -1,0 +1,35 @@
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  touch-action: none;
+  -ms-touch-action: none;
+}
+html {
+  font-size: 16px;
+}
+@media screen and (max-width: 576px) {
+  html {
+    font-size: 11px;
+  }
+}
+
+/* @media screen and (max-width: 768px) {
+  html {
+    font-size: 12px;
+  }
+} */
+
+/* @media screen and (max-width: 992px) {
+  html {
+    font-size: 13px;
+  }
+} */
+
+@media screen and (min-width: 577px) {
+  .btnFilterPoint {
+    top: 125px !important
+  }
+}
